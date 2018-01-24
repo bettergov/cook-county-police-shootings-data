@@ -23,5 +23,5 @@ Car moving,This nominal category identifies whether a person in the police case 
 Running away,This nominal category identifies whether a person shot by police was running away or trying to escape (yes) or not (no) in the case.
 Charge type,"This nominal category (varchar) lists charges brought against those shot by police. Multiple charges can be listed, and they are seperated by commas. These charges do not list every charge brought against a suspect in these cases. A suspect is innocent until proven guilty. No final resolution in the cases was identified. "
 Officer shot,This nominal category identifies whether an officer was shot in the case (yes) or not shot (no). Null data show that the information is unknown from the case narrative.
-Investigation conclusion,"This date expresses the month, day and year that the final notice in the case is posted. The records provided to "
+Investigation conclusion,"This date expresses the month, day and year that the final notice in the case is posted. "
 Notes,"This string field identifies added notes in cases, including some additional information on the department of the officers or the age of a person shot by police."
